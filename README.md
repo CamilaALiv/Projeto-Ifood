@@ -11,4 +11,5 @@ O conjunto de dados é composto por clientes da empresa Ifood com dados sobre:
 - Sucessos/fracassos da campanha
 -  Desempenho do canal
 
-https://github.com/CamilaALiv/Projeto-Ifood/blob/1c2e1ea24a90b63138efdba7c30045d6d22eb459/Projeto_Ifood.ipynb
+## Acesse o notebook aqui.
+## Acesse a base de dados aqui.
